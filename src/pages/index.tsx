@@ -2,7 +2,7 @@ import Social from "../components/social";
 
 const Index = () => {
   return (
-    <div className="flex w-full max-w-7xl lg:px-8">
+    <div className="pt-20 flex-grow sm:pt-40">
       <div className="mx-auto max-w-2xl lg:max-w-5xl">
         <div className="relative px-4 sm:px-8 lg:px-12">
           <h1 className="text-5xl font-bold pt-10 tracking-normal text-zinc-800 max-w-2xl">
